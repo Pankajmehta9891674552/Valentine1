@@ -5,6 +5,8 @@ public class Hi2
 	{
 		
 		System.out.println("Hi2calling");
+		System.out.println("Hi4calling");
+		System.out.println("Hi6calling");
 		
 	}
 }
